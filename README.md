@@ -4,6 +4,8 @@
 
 Soy un apasionado del desarrollo de software, siempre en busca de aprender, innovar y crecer. Aquí tienes un poco más sobre mí:  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelCortesM&show_icons=true&theme=transparent)
+
 ## Sobre mí  
 - 👀 **Intereses**: Desarrollo web, arquitectura de software, clean code y tecnologías emergentes.  
 - 🌱 **Actualmente aprendiendo**:  

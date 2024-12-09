@@ -19,8 +19,8 @@ Soy un apasionado del desarrollo de software, siempre en busca de aprender, inno
 Ser un desarrollador que no solo escribe código, sino que crea soluciones de calidad, impactando positivamente a las personas y empresas que usan mi trabajo.  
 
 ## 📫 Contacto  
-- LinkedIn: [Mi perfil](https://linkedin.com)  
-- Email: **tu-email@example.com**  
+
+- Email: **jacortesmontoya@gmail.com**  
 
 Explora mis repositorios y no dudes en conectar conmigo para compartir ideas o trabajar juntos en algo increíble.  
 
@@ -46,7 +46,7 @@ I'm a software development enthusiast, always seeking to learn, innovate, and gr
 To be a developer who doesn't just write code but creates quality solutions, positively impacting the people and businesses that use my work.  
 
 ## 📫 Contact  
-- LinkedIn: [My Profile](https://linkedin.com)  
-- Email: **your-email@example.com**  
+
+- Email: **jacortesmontoya@gmail.com**  
 
 Feel free to explore my repositories and connect with me to share ideas or collaborate on something amazing.  

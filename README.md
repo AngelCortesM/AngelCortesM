@@ -1,24 +1,52 @@
-# 👋 Hola, soy @AngelCortesM
+# 👋 Hola, soy @AngelCortesM  
 
-¡Bienvenido a mi perfil de GitHub! Aquí te cuento un poco sobre mí:
+¡Bienvenido a mi espacio en GitHub!  
 
-- 👀 Me interesa el desarrollo web, la arquitectura de software y las tecnologías innovadoras.
-- 🌱 Actualmente estoy aprendiendo ASP.NET Core avanzado, frameworks de JavaScript y optimización de bases de datos.
-- 💞️ Busco colaborar en proyectos de código abierto relacionados con el desarrollo de software y diseño de sistemas.
-- 😄 Pronombres: Él
-- ⚡ Dato curioso: ¡Me encanta combinar el código con experimentos de café!
+Soy un apasionado del desarrollo de software, siempre en busca de aprender, innovar y crecer. Aquí tienes un poco más sobre mí:  
 
-Explora mis repositorios y no dudes en contactarme para hablar sobre programación, ideas o colaboraciones.
+## Sobre mí  
+- 👀 **Intereses**: Desarrollo web, arquitectura de software, clean code y tecnologías emergentes.  
+- 🌱 **Actualmente aprendiendo**:  
+  - **Frontend**: Angular, experiencia de usuario y diseño responsive.  
+  - **Backend**: ASP.NET Core avanzado, SQL optimizado, Dapper para acceso a datos eficiente, y Swagger para APIs documentadas.  
+  - **Buenas prácticas**: Clean code y patrones de diseño.  
+- 💻 **Objetivo**: Mantenerme actualizado con las mejores herramientas y prácticas para crear software eficiente y escalable.  
+- 💞️ **Colaboraciones**: Estoy abierto a proyectos innovadores, en especial aquellos que promuevan soluciones prácticas y sostenibles.  
+- 😄 **Pronombres**: Él  
+- ⚡ **Dato curioso**: Cuando no estoy codificando, probablemente me encuentres perfeccionando mi receta de café. ☕  
 
-# 👋 Hi, I’m @AngelCortesM
+## 🚀 Mi propósito  
+Ser un desarrollador que no solo escribe código, sino que crea soluciones de calidad, impactando positivamente a las personas y empresas que usan mi trabajo.  
 
-Welcome to my GitHub profile! Here's a little bit about me:
+## 📫 Contacto  
+- LinkedIn: [Mi perfil](https://linkedin.com)  
+- Email: **tu-email@example.com**  
 
-- 👀 I’m interested in web development, software architecture, and innovative technologies.
-- 🌱 I’m currently learning advanced ASP.NET Core, JavaScript frameworks, and database optimization.
-- 💞️ I’m looking to collaborate on open-source projects related to software development and system design.
-- 📫 How to reach me: You can contact me via [LinkedIn](https://linkedin.com) or email me at **your-email@example.com**.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love combining coding with coffee brewing experiments!
+Explora mis repositorios y no dudes en conectar conmigo para compartir ideas o trabajar juntos en algo increíble.  
 
-Feel free to explore my repositories and connect with me to discuss coding, ideas, or collaboration!
+
+# 👋 Hi, I’m @AngelCortesM  
+
+Welcome to my GitHub space!  
+
+I'm a software development enthusiast, always seeking to learn, innovate, and grow. Here's a bit more about me:  
+
+## About Me  
+- 👀 **Interests**: Web development, software architecture, clean code, and emerging technologies.  
+- 🌱 **Currently Learning**:  
+  - **Frontend**: Angular, user experience, and responsive design.  
+  - **Backend**: Advanced ASP.NET Core, SQL optimization, Dapper for efficient data access, and Swagger for API documentation.  
+  - **Best Practices**: Clean code and design patterns.  
+- 💻 **Goal**: Stay up-to-date with the best tools and practices to build efficient, scalable software.  
+- 💞️ **Collaborations**: Open to innovative projects, especially those promoting practical and sustainable solutions.  
+- 😄 **Pronouns**: He/Him  
+- ⚡ **Fun Fact**: When I'm not coding, you’ll find me perfecting my coffee brewing skills. ☕  
+
+## 🚀 My Purpose  
+To be a developer who doesn't just write code but creates quality solutions, positively impacting the people and businesses that use my work.  
+
+## 📫 Contact  
+- LinkedIn: [My Profile](https://linkedin.com)  
+- Email: **your-email@example.com**  
+
+Feel free to explore my repositories and connect with me to share ideas or collaborate on something amazing.  

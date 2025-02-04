@@ -1,54 +1,48 @@
-# 👋 Hola, soy @AngelCortesM  
+# 👋 ¡Hola! Soy [@AngelCortesM](https://www.linkedin.com/in/jangelcortesm)  
 
-¡Bienvenido a mi espacio en GitHub!  
+🚀 **Apasionado por la tecnología y el desarrollo eficiente.**  
 
-Soy un apasionado del desarrollo de software, siempre en busca de aprender, innovar y crecer. Aquí tienes un poco más sobre mí:  
+<p align="center">
+  <a href="https://github.com/AngelCortesM">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AngelCortesM&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AngelCortesM&layout=compact&langs_count=8&theme=transparent"/>
+  </a>
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelCortesM&show_icons=true&theme=transparent)
+---
 
-## Sobre mí  
-- 👀 **Intereses**: Desarrollo web, arquitectura de software, clean code y tecnologías emergentes.  
-- 🌱 **Actualmente aprendiendo**:  
-  - **Frontend**: Angular, experiencia de usuario y diseño responsive.  
-  - **Backend**: ASP.NET Core avanzado, SQL optimizado, Dapper para acceso a datos eficiente, y Swagger para APIs documentadas.  
-  - **Buenas prácticas**: Clean code y patrones de diseño.  
-- 💻 **Objetivo**: Mantenerme actualizado con las mejores herramientas y prácticas para crear software eficiente y escalable.  
-- 💞️ **Colaboraciones**: Estoy abierto a proyectos innovadores, en especial aquellos que promuevan soluciones prácticas y sostenibles.  
-- 😄 **Pronombres**: Él  
-- ⚡ **Dato curioso**: Cuando no estoy codificando, probablemente me encuentres perfeccionando mi receta de café. ☕  
+## 🌟 **Sobre mí**  
 
-## 🚀 Mi propósito  
-Ser un desarrollador que no solo escribe código, sino que crea soluciones de calidad, impactando positivamente a las personas y empresas que usan mi trabajo.  
+💻 Soy un **Desarrollador Full Stack** especializado en **.NET** y **Angular**, con experiencia en **desarrollo web**, **backend** y **bases de datos**.  
 
-## 📫 Contacto  
+🛠️ **Habilidades principales**:  
+- **C#** y **ASP.NET Core** para backend.  
+- **Angular** y **TypeScript** para frontend.  
+- **SQL Server** para bases de datos.  
+- **Git** y **Azure DevOps** para control de versiones y CI/CD.  
 
-- Email: **jacortesmontoya@gmail.com**  
+🎯 **Mis principios**:  
+- **Código limpio** y mantenible.  
+- **Arquitecturas escalables** y eficientes.  
+- **Enfoque en el usuario** y la experiencia.  
 
-Explora mis repositorios y no dudes en conectar conmigo para compartir ideas o trabajar juntos en algo increíble.  
+☕ **Dato curioso**: Soy un apasionado del café y siempre estoy buscando la taza perfecta.  
 
+---
 
-# 👋 Hi, I’m @AngelCortesM  
+## 🎯 **Propósito**  
 
-Welcome to my GitHub space!  
+🚀 Crear **soluciones tecnológicas eficientes** que optimicen procesos y mejoren la experiencia del usuario.  
 
-I'm a software development enthusiast, always seeking to learn, innovate, and grow. Here's a bit more about me:  
+---
 
-## About Me  
-- 👀 **Interests**: Web development, software architecture, clean code, and emerging technologies.  
-- 🌱 **Currently Learning**:  
-  - **Frontend**: Angular, user experience, and responsive design.  
-  - **Backend**: Advanced ASP.NET Core, SQL optimization, Dapper for efficient data access, and Swagger for API documentation.  
-  - **Best Practices**: Clean code and design patterns.  
-- 💻 **Goal**: Stay up-to-date with the best tools and practices to build efficient, scalable software.  
-- 💞️ **Collaborations**: Open to innovative projects, especially those promoting practical and sustainable solutions.  
-- 😄 **Pronouns**: He/Him  
-- ⚡ **Fun Fact**: When I'm not coding, you’ll find me perfecting my coffee brewing skills. ☕  
+## 📫 **Contacto**  
 
-## 🚀 My Purpose  
-To be a developer who doesn't just write code but creates quality solutions, positively impacting the people and businesses that use my work.  
+📧 **Email**: [jacortesmontoya@gmail.com](mailto:jacortesmontoya@gmail.com)  
+🌐 **LinkedIn**: [@AngelCortesM](https://www.linkedin.com/in/jangelcortesm)  
 
-## 📫 Contact  
+---
 
-- Email: **jacortesmontoya@gmail.com**  
-
-Feel free to explore my repositories and connect with me to share ideas or collaborate on something amazing.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AngelCortesM&color=blue&style=flat-square" alt="Visitas al perfil"/>
+</p>

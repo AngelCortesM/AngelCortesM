@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy [@AngelCortesM](https://www.linkedin.com/in/jangelcortesm)  
+# 👋 ¡Hola! Soy [@AngelCortesM](https://www.linkedin.com/in/jangelcortesm) alias Híbrido
 
-🚀 **Apasionado por la tecnología y el desarrollo eficiente.**  
+🚀 **Un man apasionado por la tecnología y el desarrollo eficiente.**  
 
 <p align="center">
   <a href="https://github.com/AngelCortesM">
